@@ -1,13 +1,6 @@
 # ONLINE-STORE
 
 +-------------------+
-| Install MySQL     |
-| - MySQL Server    |
-| - MySQL Workbench |
-+-------------------+
-          |
-          v
-+-------------------+
 | Create Database   |
 | - CREATE DATABASE |
 | - USE Database    |
